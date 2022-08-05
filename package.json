@@ -22,6 +22,7 @@
     "@types/fs-extra": "^9.0.13",
     "@types/shelljs": "^0.8.11",
     "cypress": "^10.4.0",
+    "cypress-xpath": "^2.0.1",
     "eslint": "^8.21.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
